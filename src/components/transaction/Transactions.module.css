@@ -1,0 +1,28 @@
+.transaction-history {
+  margin: 0 auto;
+  width: 700px;
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.thead {
+  background-color: mediumturquoise;
+  color: grey;
+  text-transform: uppercase;
+  line-height: 2;
+}
+
+.tbody {
+  color: grey;
+}
+.tRow {
+  padding: 10px 0;
+}
+
+.grey {
+  background-color: lightgrey;
+}
+
+.white {
+  background-color: #fff;
+}

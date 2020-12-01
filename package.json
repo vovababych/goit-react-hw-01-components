@@ -1,6 +1,6 @@
 {
   "name": "goit-react-hw-01-components",
-  "homepage": "https://vovababych.github.io/goit-react-hw-01-components/",
+  "homepage": "https://github.com/vovababych/goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
